@@ -1,0 +1,15 @@
+{
+    "name": "laswitchtech/bootstrap-dark-5",
+    "description": "The Ancillary Guide to Dark Mode and Bootstrap 5 - A continuation of the v4 Dark Mode POC.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Louis Ouellet",
+            "email": "louis_ouellet@hotmail.com",
+            "name": "Vino Rodrigues",
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
